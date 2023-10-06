@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World Sandbox!");
+        List<string> words = new List<string>();
     }
 }
